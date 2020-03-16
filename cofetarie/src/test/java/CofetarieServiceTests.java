@@ -1,10 +1,11 @@
-import model.Client;
-import model.EvenimentSpecial;
+import mostenire.Client;
+import mostenire.EvenimentSpecial;
 import org.junit.jupiter.api.Test;
 import service.CofetarieService;
 
 public class CofetarieServiceTests {
-    CofetarieService cofetarieTest = new CofetarieService();
+    CofetarieService cofetarieServiceTest = new CofetarieService();
+
 
     Client clientTest = Client.builder()
             .adresa("iasi")
@@ -24,18 +25,18 @@ public class CofetarieServiceTests {
 
     @Test
     public void testAdaugareClient() {
-        cofetarieTest.adaugaClient(clientTest);
+        cofetarieServiceTest.adaugaClient(clientTest);
     }
 
     @Test
     public void testAfisareClient() {
-        cofetarieTest.afiseazaClientiCofetarie();
+        cofetarieServiceTest.afiseazaClientiCofetarie();
     }
 
     @Test
     public void testEveniment() {
 
-        cofetarieTest.adaugaEvenimentSpecial(evenimentTest);
-        cofetarieTest.afiseazaEvenimenteCofetarie();
+        cofetarieServiceTest.adaugaEvenimentSpecial(evenimentTest);
+        cofetarieServiceTest.afiseazaEvenimenteCofetarie();
     }
 }

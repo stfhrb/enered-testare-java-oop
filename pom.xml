@@ -11,6 +11,7 @@
     <modules>
         <module>oopmasina</module>
         <module>cofetarie</module>
+        <module>recapitulare101</module>
     </modules>
 
     <dependencies>
@@ -29,8 +30,8 @@
             <scope>test</scope>
         </dependency>
 
-
-
     </dependencies>
+
+
 
 </project>

@@ -1,4 +1,4 @@
-package model;
+package mostenire;
 
 public class Autobuz {
 

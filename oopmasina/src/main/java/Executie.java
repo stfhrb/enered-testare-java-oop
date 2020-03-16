@@ -1,5 +1,4 @@
-import model.Masina;
-import model.MasinaCurse;
+import mostenire.MasinaCurse;
 
 import java.util.ArrayList;
 

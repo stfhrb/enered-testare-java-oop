@@ -1,13 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2f61984-300d-4694-8e4a-884807816657" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/mostenire/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/model/Cofetarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/mostenire/Cofetarie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/model/EvenimentSpecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/mostenire/EvenimentSpecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/model/Executie.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/mostenire/Executie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/model/ProdusCofetarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/mostenire/ProdusCofetarie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/main/java/service/CofetarieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/main/java/service/CofetarieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/src/test/java/CofetarieServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/src/test/java/CofetarieServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/target/classes/model/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/target/classes/model/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/target/classes/model/Cofetarie.class" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/target/classes/model/Cofetarie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/target/classes/model/EvenimentSpecial.class" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/target/classes/model/EvenimentSpecial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/target/classes/model/Executie.class" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/target/classes/model/Executie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cofetarie/target/classes/model/ProdusCofetarie.class" beforeDir="false" afterPath="$PROJECT_DIR$/cofetarie/target/classes/model/ProdusCofetarie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/Executie.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/Executie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/model/Autobuz.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/mostenire/Autobuz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/model/Masina.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/mostenire/Masina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/model/MasinaCurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/mostenire/MasinaCurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/model/MasinaLux.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/mostenire/MasinaLux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/main/java/model/MasinaSport.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/main/java/mostenire/MasinaSport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopmasina/src/test/java/TesteMasina.java" beforeDir="false" afterPath="$PROJECT_DIR$/oopmasina/src/test/java/TesteMasina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Executie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Executie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Angajat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mostenire/Angajat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Om.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mostenire/Om.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mostenire/Telefon.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1YrjBw41mC1PHESJh8fmJpQqGWU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Executie (1)">
+    <configuration name="Executie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorfism.Executie" />
+      <module name="recapitulare101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polimorfism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Executie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Executie" />
+      <module name="cofetarie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Executie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mostenire.Executie" />
+      <module name="recapitulare101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CofetarieServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cofetarie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CofetarieServiceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CofetarieServiceTests.testAdaugareClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cofetarie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CofetarieServiceTests" />
+      <option name="METHOD_NAME" value="testAdaugareClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CofetarieServiceTests.testAfisareClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cofetarie" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CofetarieServiceTests" />
+      <option name="METHOD_NAME" value="testAfisareClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Executie (1)" />
+        <item itemvalue="Application.Executie (1)" />
+        <item itemvalue="Application.Executie" />
+        <item itemvalue="JUnit.CofetarieServiceTests.testAfisareClient" />
+        <item itemvalue="JUnit.CofetarieServiceTests.testAdaugareClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2f61984-300d-4694-8e4a-884807816657" name="Default Changelist" comment="" />
+      <created>1583707474764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583707474764</updated>
+      <workItem from="1583707480351" duration="3192000" />
+      <workItem from="1584024022031" duration="3032000" />
+      <workItem from="1584372954704" duration="6900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

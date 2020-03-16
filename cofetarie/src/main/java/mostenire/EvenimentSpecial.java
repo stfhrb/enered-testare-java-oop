@@ -1,4 +1,4 @@
-package model;
+package mostenire;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

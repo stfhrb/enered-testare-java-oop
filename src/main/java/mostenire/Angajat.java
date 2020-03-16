@@ -1,4 +1,4 @@
-package model;
+package mostenire;
 
 import lombok.Data;
 

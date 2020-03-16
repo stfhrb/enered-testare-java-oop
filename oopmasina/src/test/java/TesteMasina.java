@@ -1,4 +1,4 @@
-import model.Masina;
+import mostenire.Masina;
 import org.junit.jupiter.api.Test;
 
 public class TesteMasina {

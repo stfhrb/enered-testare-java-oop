@@ -1,12 +1,13 @@
 package service;
 
-import model.Client;
-import model.Cofetarie;
-import model.EvenimentSpecial;
-import model.ProdusCofetarie;
+import mostenire.Client;
+import mostenire.Cofetarie;
+import mostenire.EvenimentSpecial;
+import mostenire.ProdusCofetarie;
 
 public class CofetarieService {
-    private Cofetarie cofetariaMea;
+    //obiectul trebuie initializat
+    private Cofetarie cofetariaMea = new Cofetarie();
 
     public void adaugaClient(Client clientNou) {
         cofetariaMea.getListaClienti().add(clientNou);

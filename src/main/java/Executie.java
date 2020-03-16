@@ -1,5 +1,5 @@
-import model.Angajat;
-import model.Om;
+import mostenire.Angajat;
+import mostenire.Om;
 
 public class Executie {
 

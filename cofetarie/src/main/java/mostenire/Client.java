@@ -1,4 +1,4 @@
-package model;
+package mostenire;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -17,3 +17,5 @@ public class Client {
     private int varsta;
     private boolean clientFidel;
 }
+
+
